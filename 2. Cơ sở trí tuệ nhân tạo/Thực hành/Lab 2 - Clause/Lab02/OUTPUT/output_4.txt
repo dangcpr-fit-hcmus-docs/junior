@@ -1,0 +1,10 @@
+3
+-P OR -T
+R
+Q OR -R
+3
+Q OR -T
+-P
+Q
+0
+NO

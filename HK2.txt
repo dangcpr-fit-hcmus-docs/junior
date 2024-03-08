@@ -1,0 +1,11 @@
+(18 tín chỉ)
+
+T2:
+(2-5) An toàn và bảo mật dữ liệu trong hệ thống thông tin
+(3-5) Kiến tập nghề nghiệp
+T3:
+(1-4) Cơ sở trí tuệ nhân tạo
+T5:
+(1-4) Quy hoạch tuyến tính
+T6:
+(6-9) Phân tích thiết kế hệ thống thông tin

@@ -1,0 +1,36 @@
+- Controller: 
++ UIContact()
++ UIAuthentication()
++ UIMap()
++ UIEnteratainment()
+- View:
++ StartUI()
+- Model:
++ Database ~varible~
++ GetDatabase()
+- Authentication:
++ username, password.
++ GetUsername()
+- Sign In (kế thừa Authentication):
++ CheckVaildUsername(username)
++ CheckUserPassMatch(username, password)
++ ChangePassword(username)
+- Sign Up (kế thừa Authentication):
++ CheckVaildUsername(username)
++ AddInfomation(username, password)
+- Contact:
++ UserID, Email, Name, Sex, DOB, Hobbies, Oriten
++ GetName(), GetSex(), GetDOB(), GetHobbies(), GetOriten()
++ AddorUpdateInfo(Email, Name, Sex, DOB, Hobbies, Oriten)
++ GetChat(UserID)
++ GetVideoCall(UserID)
++ GetAudioCall(UserID)
++ Match()
+- Map:
++ Departure, destination
++ GetDeparture(), GetDestionation(), GetNowLocation(), Way(Departure, destination)
+- Enteratainment:
++ Choice
++ GetChoice()
+- Tarot (kế thừa Enteratianment):
++ GetTarot()

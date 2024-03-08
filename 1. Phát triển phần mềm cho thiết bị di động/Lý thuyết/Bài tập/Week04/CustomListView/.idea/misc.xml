@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidCourse/CustomListView/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1655" />
+        <entry key="..\:/AndroidCourse/CustomListView/app/src/main/res/layout/activity_main.xml" value="0.2341485507246377" />
+        <entry key="..\:/AndroidCourse/CustomListView/app/src/main/res/layout/custom_row_icon_label.xml" value="0.2341485507246377" />
+        <entry key="..\:/Huu Phuc/Study/@ Uni/Nam 3/Mobile/Bai Tap/W04-CustomListView/CustomListView/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Huu Phuc/Study/@ Uni/Nam 3/Mobile/Bai Tap/W04-CustomListView/CustomListView/app/src/main/res/layout/custom_row_icon_label.xml" value="0.20833333333333334" />
+        <entry key="..\:/Huu Phuc/Study/@ Uni/Nam 3/Mobile/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Huu Phuc/Study/@ Uni/Nam 3/Mobile/app/src/main/res/layout/custom_row_icon_label.xml" value="0.38079470198675497" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

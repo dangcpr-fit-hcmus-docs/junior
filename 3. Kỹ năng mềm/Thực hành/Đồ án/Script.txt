@@ -1,0 +1,13 @@
+->Cảnh 0: X quyết tâm - quay ở trường. Câu đầu tiên sẽ chiếu 1 video hài để giới thiệu - Quay ở LT - 31/07 và 07/08 - Quay sau giờ học
+*Cảnh 1: X dậy, vệ sinh cá nhân chuẩn bị đi học (1 phút), quay 2 phần: 1 phần X vừa bước vào cổng trường và X vừa bước vào lớp - Quay ở nhà - Deadline 07/08
+Cảnh 2: X tới trường, thầy T phát bài kiểm tra, A,B,C giật bà kiểm tra và cười (1 phút) - Quay ở NVC - 03/08 và 10/08 - Quay trong lớp học - Quay sau giờ học
+*Cảnh 3: X chán nản, mải mê chơi game (0.5 phút) - Quay ở nhà - Deadline 07/08
+->Cảnh 4: 1 ngày nào đó, thầy T khuyên X, sau đó X tập trung học hơn (0.75 phút) - Quay ở LT - 31/07 và 07/08 - Quay sau giờ học
+->Cảnh 5: A,B,C đang chơi liên quân, X từ chối (0.5 phút) - Quay ở LT - 31/07 và 07/08 - Quay trong giờ ra chơi, trong lớp học
+Cảnh 6: X làm bài kiểm tra (0.5 phút) - Quay ở NVC - 03/08 và 10/08 - Quay trong lớp học - Quay sau giờ học
+Cảnh 7: Phát bài kiểm tra, X khuôn mặt trầm buồn (0.5 phút) - Quay ở NVC - 03/08, 07/08, 10/08 - Quay bên ngoài phòng
+->Cảnh 8: Thầy T động viên (0.75 phút) - Quay ở LT (quay trước khi học) - Thầy T, X và người quay - 31/07 và 07/08 - Quay sau giờ học
+*Cảnh 9: X tiếp tục cố gắng và có tên trong danh sách học bổng (1 phút) - Quay ở nhà - Deadline 07/08
+Intro: Vượt qua bản thân mình để tiến tới thành công là con đường không bao giờ trải đầy hoa hồng. Chiến thắng bản thân, vượt qua được sự lười biếng không bao giờ là những thử thách dễ dàng đối với chúng ta và X trong câu chuyện là một trường hợp điển hình (0.5 phút).
+Outro: Qua câu chuyện của X, chúng ta có thể rút ra một quan niệm sống quý báu cho bản thân mình, đó chính là trở thành một phiên bản tốt hơn của chính mình hiện tại. Không có thứ gì là hoàn hảo từ ban đầu cả cũng như không có con đường thành công nào mà không trải qua những khó khăn, thử thách. Những lúc nản chí trên chuyến hành trình đó, các bạn có thể tiếp thêm động lực cho bản thân bằng cách chia sẻ với thầy cô hay bạn bè của mình, vì đôi khi những điều lớn lao mà chúng ta muốn đạt được ấy lại xuất phát từ việc chúng ta có thể hoàn thành và giải quyết những điều nhỏ bé của chính mình. Đối với nhóm Tốt nghiệp sớm, chúng mình vẫn còn là sinh viên, chúng mình rất vui vì đã được làm việc cùng nhau qua đồ án này và cũng tự nhủ sẽ phấn đấu từng ngày để làm cho những ước mơ sẽ chẳng còn là mơ ước… - (0.5 phút)
+X là Trí, A,B,C là Minh Huy, Thiên Ân, Thái Bảo, T là Đăng, dẫn chuyện Đình Bảo.

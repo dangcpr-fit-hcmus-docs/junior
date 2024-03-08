@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_vertical"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp">
+
+        <TableLayout android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:stretchColumns="1"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+            <TableRow>
+                <TextView
+                    android:id="@+id/lblUsername"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="right|center"
+                    android:text="Username"
+                    android:textSize="20sp"
+                    android:textStyle="bold"/>
+
+                <EditText
+                    android:id="@+id/edtUsername"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/duongvien_edittext"
+                    android:layout_margin="5dp" />
+            </TableRow>
+
+            <TableRow>
+                <TextView
+                    android:id="@+id/lblPassword"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="right|center"
+                    android:padding="5dp"
+                    android:text="Password"
+                    android:textSize="20sp"
+                    android:textStyle="bold"/>
+
+                <EditText
+                    android:id="@+id/edtPassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/duongvien_edittext"
+                    android:layout_margin="5dp"
+
+                    android:inputType="textPassword"/>
+            </TableRow>
+
+            <TableRow>
+                <TextView
+                    android:id="@+id/lblRetype"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="right|center"
+                    android:text="Retype"
+                    android:textSize="20sp"
+                    android:textStyle="bold"/>
+
+                <EditText
+                    android:id="@+id/edtRetype"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/duongvien_edittext"
+                    android:layout_margin="5dp"
+
+                    android:inputType="textPassword"/>
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:id="@+id/lblBirthday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Birthdate"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <TableLayout android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:stretchColumns="0"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+            <TableRow>
+                <EditText
+                    android:id="@+id/edtBirthday"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/duongvien_edittext"
+                    android:layout_margin="5dp" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:id="@+id/btnSelect"
+                    android:layout_gravity="left|bottom"
+                    android:text="Select" />
+            </TableRow>
+        </TableLayout>
+
+        <TextView
+            android:id="@+id/lblGender"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Gender"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <RadioGroup
+            android:gravity="center"
+            android:id="@+id/radioGroupGender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/radMale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Male"
+                android:layout_marginRight="100dp"/>
+
+            <RadioButton
+                android:id="@+id/radFemale"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Female"
+                android:layout_marginLeft="50dp"/>
+        </RadioGroup>
+
+        <TextView
+            android:id="@+id/lblHobbies"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Hobbies"
+            android:textSize="20sp"
+            android:textStyle="bold"/>
+
+        <TableLayout android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:stretchColumns="0,1,2"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+            <TableRow>
+                <CheckBox
+                    android:id="@+id/chkTennis"
+                    android:text="Tennis"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"/>
+                <CheckBox
+                    android:id="@+id/chkFutbal"
+                    android:text="Futbal"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"/>
+
+                <CheckBox
+                    android:id="@+id/chkOthers"
+                    android:text="Others"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"/>
+            </TableRow>
+        </TableLayout>
+
+        <TableLayout android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:stretchColumns="0,1"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+            <TableRow>
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btnReset"
+                    android:layout_gravity="center"
+                    android:text="Reset" />
+
+                <Button
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btnSignUp"
+                    android:layout_gravity="center"
+                    android:text="Sign-up"/>
+            </TableRow>
+        </TableLayout>
+
+    </LinearLayout>
+</ScrollView>

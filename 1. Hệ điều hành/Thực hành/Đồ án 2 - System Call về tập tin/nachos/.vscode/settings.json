@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "syscall.h": "c",
+        "fstream": "cpp",
+        "string_view": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

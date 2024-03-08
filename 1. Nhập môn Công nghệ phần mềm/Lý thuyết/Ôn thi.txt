@@ -1,0 +1,17 @@
+- Tên đồ án: TinderMini
+- Dùng để kết nối những người đang trong tình trạng FA có thể nói chuyện và tìm thấy 1 nửa của đời mình (cái này ae có thể chém gió)
+- Khó khăn lớn nhất: các thành viên đều chưa có kinh nghiệm trong công việc phát triển phần mềm, gần như làm theo bản năng nếu không có sự hướng dẫn của người đi trước hay thầy cô, team leader (chém gió thêm cũng được).
+20120049 – Nguyen Hai Dang Leader, Project manager, developer   
+20120077 – Nguyen Quang Hien Developer    
+20120084 – Nguyen Van Hieu Designer, tester   
+20120458 – Ho Si Duc Business Analyst, developer   
+20120575 – Nguyen Khac Tan Developer   
+- Tần suất họp: 2 tuần/lần, họp online - vì đa số các bạn đều ở xa nhau
+- Các công quản lý:
++ Trello: quản lý đồ án theo mô hình Agile
++ Github: để quản lý source code của đồ án
++ Onedrive: quản lý các tài liệu của nhóm
++ Google Calendar: tạo và nhắc nhở các mốc thời gian quan trọng
+- Người đưa ra quyết định cuối cùng là Leader, Leader sẽ tổng hợp ý kiến các bạn và đưa ra cách giải quyết phù hợp.
+- Phương pháp khích lệ: luôn nói rằng "cố gắng để điểm cao đồ án này, vì chắc chắn thi cuối kì sẽ kéo điểm xuống"
+- Trễ deadline: phải làm thêm 1 task bù vào bài tập tiếp theo, nếu trễ đến mức không hoàn thành sẽ đánh dấu lại và trừ phần trăm đóng góp.
